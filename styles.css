@@ -95,14 +95,11 @@ body {
     background-color: rgba(37, 40, 49, 1);
 }
 
-#social {
+#social{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: flex-start; 
-    overflow-x: auto; 
-    white-space: nowrap; 
-    width: 100%;
+    justify-content: center;
 }
 
 .titleSubtitle {
